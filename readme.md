@@ -1,6 +1,6 @@
-# Segmentation using opencv
+# Segmentation and erosion using opencv
 
-### overview:
+### overview of segmentation and erosion:
 ![Segmentation - opencv](https://raw.githubusercontent.com/ayoubridouani/segmentation_opencv/master/segmentation.png "Segmentation - opencv")
 
 to contact me : ridouaniayoub@gmail.com
